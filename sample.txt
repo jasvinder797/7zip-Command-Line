@@ -1,0 +1,3 @@
+@ echo off
+
+7-Zip: 7za a –tzip "C:\Users\Perfect\Desktop\chrone job\" "C:\Users\Perfect\Desktop\chrone job\sample.bak"
